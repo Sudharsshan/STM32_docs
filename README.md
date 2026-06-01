@@ -157,22 +157,22 @@ The project development pipeline consists of:
 
 ### Documentation
 
-|File|Description|
-|---|---|
-|[Capstone Project Report](https://chatgpt.com/c/Final%20review/Capstone_project_report.pdf)|Final project report|
-|[Simulation Model](https://chatgpt.com/c/Simulation_Model.pdf)|System simulation documentation|
-|[Buck Converter Calculations](https://chatgpt.com/c/Buck%20Converter%20calculation.pdf)|Power supply design calculations|
-|[Buck Converter Graphs](https://chatgpt.com/c/Buck%20Converter%20graphs.pdf)|Converter performance plots|
+| File                                                                                        | Description                      |
+| ------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Capstone Project Report](Final%20review/Capstone_project_report.pdf) | Final project report             |
+| [Simulation Model](Simulation_Model.pdf)                              | System simulation documentation  |
+| [Buck Converter Calculations](Buck%20Converter%20calculation.pdf)     | Power supply design calculations |
+| [Buck Converter Graphs](Buck%20Converter%20graphs.pdf)                | Converter performance plots      |
 
 ### Simulink Models
 
 |File|Description|
 |---|---|
-|[SimulinkModel.slx](https://chatgpt.com/c/SimulinkModel.slx)|Main simulation model|
-|[Simulink model.slx](https://chatgpt.com/c/Simulink%20model.slx)|Alternative model version|
-|[commented_blocks.slx](https://chatgpt.com/c/commented_blocks.slx)|Annotated design model|
-|[MOSFET_based_Latching_circuit.slx](https://chatgpt.com/c/MOSFET_based_Latching_circuit.slx)|Vehicle control simulation|
-|[motor_test.slx](https://chatgpt.com/c/motor_test.slx)|Motor testing simulation|
+|[SimulinkModel.slx](SimulinkModel.slx)|Main simulation model|
+|[Simulink model.slx](Simulink%20model.slx)|Alternative model version|
+|[commented_blocks.slx](commented_blocks.slx)|Annotated design model|
+|[MOSFET_based_Latching_circuit.slx](MOSFET_based_Latching_circuit.slx)|Vehicle control simulation|
+|[motor_test.slx](motor_test.slx)|Motor testing simulation|
 
 ### Detection Scripts
 
@@ -201,11 +201,11 @@ Key files:
 
 ### Hardware Prototype
 
-![Hardware Setup](https://chatgpt.com/c/hardware_setup.jpg)
+![Hardware Setup](hardware_setup.jpg)
 
 ### Final System Concept
 
-![System Overview](https://chatgpt.com/c/InfraRed%20Camera%20Based%20Rider%20Safety.png)
+![System Overview](InfraRed%20Camera%20Based%20Rider%20Safety.png)
 
 The prototype successfully demonstrated:
 
@@ -224,9 +224,9 @@ The prototype successfully demonstrated:
 
 ## Demonstration Videos
 
-- [Video Demonstration 1](https://chatgpt.com/c/Final%20review/video1.mp4)
+- [Video Demonstration 1](Final review/video1.mp4)
     
-- [Video Demonstration 2](https://chatgpt.com/c/Final%20review/video2.mp4)
+- [Video Demonstration 2](Final review/video2.mp4)
     
 
 ---
@@ -252,7 +252,8 @@ The prototype successfully demonstrated:
 
 ## Authors
 
-Capstone Project Team
+- S. Y. Sudharsshan
+- M. Varun
 
 Department of Electrical and Electronics Engineering
 
