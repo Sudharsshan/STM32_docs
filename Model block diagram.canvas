@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d68a806056f5ddc5","x":-460,"y":-240,"width":250,"height":60,"color":"1","type":"text","text":"STM32"},
+		{"id":"95d43d88d9c5d910","x":-460,"y":-114,"width":250,"height":60,"color":"4","type":"text","text":"OV2640"},
+		{"id":"3d0ab4ab21be8517","x":-780,"y":-240,"width":250,"height":60,"color":"2","type":"text","text":"IR LEDs"},
+		{"id":"837632668ca77c82","x":-460,"y":-411,"width":250,"height":60,"color":"2","type":"text","text":"Relay"},
+		{"id":"d6d0bd0f731dd256","x":-80,"y":-240,"width":250,"height":60,"color":"6","type":"text","text":"Buck converter"}
+	],
+	"edges":[
+		{"id":"894a5fd79c995f4e","fromNode":"d68a806056f5ddc5","fromSide":"bottom","toNode":"95d43d88d9c5d910","toSide":"top"},
+		{"id":"48583259050a93d8","fromNode":"d68a806056f5ddc5","fromSide":"left","toNode":"3d0ab4ab21be8517","toSide":"right"},
+		{"id":"c3d30cb31924d560","fromNode":"d68a806056f5ddc5","fromSide":"top","toNode":"837632668ca77c82","toSide":"bottom"},
+		{"id":"ead76f9b38417e32","fromNode":"d6d0bd0f731dd256","fromSide":"left","toNode":"d68a806056f5ddc5","toSide":"right"}
+	]
+}
