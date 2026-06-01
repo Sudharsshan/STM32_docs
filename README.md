@@ -224,9 +224,9 @@ The prototype successfully demonstrated:
 
 ## Demonstration Videos
 
-- [Video Demonstration 1](Final review/video1.mp4)
+- [Video 1](Final review/video1.mp4)
     
-- [Video Demonstration 2](Final review/video2.mp4)
+- [Video 2](Final review/video2.mp4)
     
 
 ---
